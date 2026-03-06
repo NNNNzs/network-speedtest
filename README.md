@@ -31,7 +31,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-username/network-speedtest.git
+git clone https://github.com/NNNNzs/network-speedtest.git
 cd network-speedtest
 
 # 2. 构建镜像
@@ -49,7 +49,7 @@ docker run -d \
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-username/network-speedtest.git
+git clone https://github.com/NNNNzs/network-speedtest.git
 cd network-speedtest
 
 # 2. 安装依赖
@@ -217,7 +217,7 @@ network-speedtest/
 
 ## 👨‍💻 作者
 
-[Jarvis](https://github.com/your-username)
+[Jarvis](https://github.com/NNNNzs)
 
 ## 🙏 致谢
 
@@ -228,8 +228,8 @@ network-speedtest/
 ## 📮 联系方式
 
 如有问题或建议，欢迎：
-- 提交 [Issue](https://github.com/your-username/network-speedtest/issues)
-- 发送邮件：your-email@example.com
+- 提交 [Issue](https://github.com/NNNNzs/network-speedtest/issues)
+- 发送邮件：nnnnzs@vip.qq.com
 
 ---
 
